@@ -1,0 +1,35 @@
+h1 {
+font-family: Lucida Handwriting;
+
+}
+body {
+  background-color: #ffc1fa;
+}
+.about {
+font-family: cursive;
+color: #318fb5;
+
+}
+hr {
+border-style: none;
+border-bottom-style: dashed;
+border-color: red;
+border-width: 2.5px;
+width: 20%;
+}
+ul {
+  text-align: center;
+  list-style: inside;
+}
+
+#job {
+  background-color: gray;
+}
+
+th {
+
+  color: blue;
+}
+#hobbies {
+  color: #206a5d;
+}
